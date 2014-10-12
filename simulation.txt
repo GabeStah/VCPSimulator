@@ -1,0 +1,225 @@
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 1,000,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 22
+//////////////////////////////////////////////////////////////////
+95.074% attendance with 908,611 raids & 91,389 failures [90.861%] or 1 in every ~9 raids missed.
+Special_Member with 90.00% attendance raided 812,267 times [81.227%]
+Average_Member with 95.32% attendance raided 908,138 times [90.814%]
+-----
+95.080% attendance with 908,674 raids & 91,326 failures [90.867%] or 1 in every ~9 raids missed.
+Special_Member with 90.00% attendance raided 812,816 times [81.282%]
+Average_Member with 95.32% attendance raided 908,121 times [90.812%]
+-----
+95.082% attendance with 908,480 raids & 91,520 failures [90.848%] or 1 in every ~9 raids missed.
+Special_Member with 90.00% attendance raided 812,408 times [81.241%]
+Average_Member with 95.32% attendance raided 908,139 times [90.814%]
+-----
+95.073% attendance with 908,497 raids & 91,503 failures [90.850%] or 1 in every ~9 raids missed.
+Special_Member with 90.00% attendance raided 811,702 times [81.170%]
+Average_Member with 95.32% attendance raided 908,161 times [90.816%]
+-----
+95.081% attendance with 909,001 raids & 90,999 failures [90.900%] or 1 in every ~9 raids missed.
+Special_Member with 90.00% attendance raided 812,212 times [81.221%]
+Average_Member with 95.32% attendance raided 908,176 times [90.818%]
+-----
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 1,000,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 22
+//////////////////////////////////////////////////////////////////
+95.326% attendance with 918,914 raids & 81,086 failures [91.891%] or 1 in every ~11 raids missed.
+Special_Member with 95.32% attendance raided 904,808 times [90.481%]
+Average_Member with 95.32% attendance raided 904,412 times [90.441%]
+-----
+95.321% attendance with 918,385 raids & 81,615 failures [91.838%] or 1 in every ~11 raids missed.
+Special_Member with 95.32% attendance raided 904,235 times [90.424%]
+Average_Member with 95.32% attendance raided 904,422 times [90.442%]
+-----
+95.326% attendance with 918,570 raids & 81,430 failures [91.857%] or 1 in every ~11 raids missed.
+Special_Member with 95.32% attendance raided 904,654 times [90.465%]
+Average_Member with 95.32% attendance raided 904,421 times [90.442%]
+-----
+95.320% attendance with 918,578 raids & 81,422 failures [91.858%] or 1 in every ~11 raids missed.
+Special_Member with 95.32% attendance raided 905,137 times [90.514%]
+Average_Member with 95.32% attendance raided 904,399 times [90.440%]
+-----
+95.319% attendance with 918,857 raids & 81,143 failures [91.886%] or 1 in every ~11 raids missed.
+Special_Member with 95.32% attendance raided 904,420 times [90.442%]
+Average_Member with 95.32% attendance raided 904,430 times [90.443%]
+-----
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 1,000,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 22
+//////////////////////////////////////////////////////////////////
+95.536% attendance with 927,378 raids & 72,622 failures [92.738%] or 1 in every ~12 raids missed.
+Special_Member with 100.00% attendance raided 985,358 times [98.536%]
+Average_Member with 95.32% attendance raided 901,143 times [90.114%]
+-----
+95.539% attendance with 927,715 raids & 72,285 failures [92.771%] or 1 in every ~12 raids missed.
+Special_Member with 100.00% attendance raided 985,333 times [98.533%]
+Average_Member with 95.32% attendance raided 901,170 times [90.117%]
+-----
+95.531% attendance with 926,866 raids & 73,134 failures [92.687%] or 1 in every ~12 raids missed.
+Special_Member with 100.00% attendance raided 985,434 times [98.543%]
+Average_Member with 95.32% attendance raided 901,130 times [90.113%]
+-----
+95.529% attendance with 927,129 raids & 72,871 failures [92.713%] or 1 in every ~12 raids missed.
+Special_Member with 100.00% attendance raided 985,492 times [98.549%]
+Average_Member with 95.32% attendance raided 901,141 times [90.114%]
+-----
+95.539% attendance with 927,738 raids & 72,262 failures [92.774%] or 1 in every ~12 raids missed.
+Special_Member with 100.00% attendance raided 985,327 times [98.533%]
+Average_Member with 95.32% attendance raided 901,161 times [90.116%]
+-----
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 1,000,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 23
+//////////////////////////////////////////////////////////////////
+95.088% attendance with 975,492 raids & 24,508 failures [97.549%] or 1 in every ~39 raids missed.
+Special_Member with 90.00% attendance raided 780,362 times [78.036%]
+Average_Member with 95.32% attendance raided 872,263 times [87.226%]
+-----
+95.095% attendance with 975,948 raids & 24,052 failures [97.595%] or 1 in every ~40 raids missed.
+Special_Member with 90.00% attendance raided 780,157 times [78.016%]
+Average_Member with 95.32% attendance raided 872,293 times [87.229%]
+-----
+95.085% attendance with 975,812 raids & 24,188 failures [97.581%] or 1 in every ~40 raids missed.
+Special_Member with 90.00% attendance raided 779,345 times [77.934%]
+Average_Member with 95.32% attendance raided 872,334 times [87.233%]
+-----
+95.089% attendance with 975,770 raids & 24,230 failures [97.577%] or 1 in every ~40 raids missed.
+Special_Member with 90.00% attendance raided 779,829 times [77.983%]
+Average_Member with 95.32% attendance raided 872,304 times [87.230%]
+-----
+95.096% attendance with 975,946 raids & 24,054 failures [97.595%] or 1 in every ~40 raids missed.
+Special_Member with 90.00% attendance raided 780,055 times [78.006%]
+Average_Member with 95.32% attendance raided 872,306 times [87.231%]
+-----
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 1,000,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 23
+//////////////////////////////////////////////////////////////////
+95.323% attendance with 979,016 raids & 20,984 failures [97.902%] or 1 in every ~46 raids missed.
+Special_Member with 95.32% attendance raided 868,073 times [86.807%]
+Average_Member with 95.32% attendance raided 868,484 times [86.848%]
+-----
+95.319% attendance with 979,243 raids & 20,757 failures [97.924%] or 1 in every ~47 raids missed.
+Special_Member with 95.32% attendance raided 868,545 times [86.855%]
+Average_Member with 95.32% attendance raided 868,473 times [86.847%]
+-----
+95.319% attendance with 979,282 raids & 20,718 failures [97.928%] or 1 in every ~47 raids missed.
+Special_Member with 95.32% attendance raided 869,152 times [86.915%]
+Average_Member with 95.32% attendance raided 868,453 times [86.845%]
+-----
+95.319% attendance with 979,193 raids & 20,807 failures [97.919%] or 1 in every ~47 raids missed.
+Special_Member with 95.32% attendance raided 868,145 times [86.814%]
+Average_Member with 95.32% attendance raided 868,488 times [86.849%]
+-----
+95.315% attendance with 979,303 raids & 20,697 failures [97.930%] or 1 in every ~47 raids missed.
+Special_Member with 95.32% attendance raided 868,670 times [86.867%]
+Average_Member with 95.32% attendance raided 868,468 times [86.847%]
+-----
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 1,000,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 23
+//////////////////////////////////////////////////////////////////
+95.523% attendance with 982,081 raids & 17,919 failures [98.208%] or 1 in every ~54 raids missed.
+Special_Member with 100.00% attendance raided 946,283 times [94.628%]
+Average_Member with 95.32% attendance raided 865,107 times [86.511%]
+-----
+95.519% attendance with 982,085 raids & 17,915 failures [98.209%] or 1 in every ~54 raids missed.
+Special_Member with 100.00% attendance raided 946,349 times [94.635%]
+Average_Member with 95.32% attendance raided 865,105 times [86.511%]
+-----
+95.515% attendance with 981,983 raids & 18,017 failures [98.198%] or 1 in every ~54 raids missed.
+Special_Member with 100.00% attendance raided 946,412 times [94.641%]
+Average_Member with 95.32% attendance raided 865,096 times [86.510%]
+-----
+95.522% attendance with 982,199 raids & 17,801 failures [98.220%] or 1 in every ~55 raids missed.
+Special_Member with 100.00% attendance raided 946,297 times [94.630%]
+Average_Member with 95.32% attendance raided 865,110 times [86.511%]
+-----
+95.525% attendance with 982,085 raids & 17,915 failures [98.209%] or 1 in every ~54 raids missed.
+Special_Member with 100.00% attendance raided 946,244 times [94.624%]
+Average_Member with 95.32% attendance raided 865,105 times [86.511%]
+-----
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 1,000,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 24
+//////////////////////////////////////////////////////////////////
+95.095% attendance with 994,491 raids & 5,509 failures [99.449%] or 1 in every ~180 raids missed.
+Special_Member with 90.00% attendance raided 748,314 times [74.831%]
+Average_Member with 95.32% attendance raided 836,748 times [83.675%]
+-----
+95.103% attendance with 994,602 raids & 5,398 failures [99.460%] or 1 in every ~184 raids missed.
+Special_Member with 90.00% attendance raided 748,851 times [74.885%]
+Average_Member with 95.32% attendance raided 836,730 times [83.673%]
+-----
+95.093% attendance with 994,422 raids & 5,578 failures [99.442%] or 1 in every ~178 raids missed.
+Special_Member with 90.00% attendance raided 747,540 times [74.754%]
+Average_Member with 95.32% attendance raided 836,778 times [83.678%]
+-----
+95.099% attendance with 994,578 raids & 5,422 failures [99.458%] or 1 in every ~183 raids missed.
+Special_Member with 90.00% attendance raided 747,370 times [74.737%]
+Average_Member with 95.32% attendance raided 836,793 times [83.679%]
+-----
+95.097% attendance with 994,609 raids & 5,391 failures [99.461%] or 1 in every ~184 raids missed.
+Special_Member with 90.00% attendance raided 748,254 times [74.825%]
+Average_Member with 95.32% attendance raided 836,754 times [83.675%]
+-----
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 1,000,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 24
+//////////////////////////////////////////////////////////////////
+95.322% attendance with 995,609 raids & 4,391 failures [99.561%] or 1 in every ~226 raids missed.
+Special_Member with 95.32% attendance raided 832,874 times [83.287%]
+Average_Member with 95.32% attendance raided 833,131 times [83.313%]
+-----
+95.322% attendance with 995,470 raids & 4,530 failures [99.547%] or 1 in every ~219 raids missed.
+Special_Member with 95.32% attendance raided 832,899 times [83.290%]
+Average_Member with 95.32% attendance raided 833,121 times [83.312%]
+-----
+95.318% attendance with 995,518 raids & 4,482 failures [99.552%] or 1 in every ~222 raids missed.
+Special_Member with 95.32% attendance raided 833,387 times [83.339%]
+Average_Member with 95.32% attendance raided 833,103 times [83.310%]
+-----
+95.316% attendance with 995,513 raids & 4,487 failures [99.551%] or 1 in every ~221 raids missed.
+Special_Member with 95.32% attendance raided 832,859 times [83.286%]
+Average_Member with 95.32% attendance raided 833,125 times [83.312%]
+-----
+95.320% attendance with 995,463 raids & 4,537 failures [99.546%] or 1 in every ~219 raids missed.
+Special_Member with 95.32% attendance raided 832,826 times [83.283%]
+Average_Member with 95.32% attendance raided 833,126 times [83.313%]
+-----
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 1,000,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 24
+//////////////////////////////////////////////////////////////////
+95.516% attendance with 996,322 raids & 3,678 failures [99.632%] or 1 in every ~270 raids missed.
+Special_Member with 100.00% attendance raided 907,838 times [90.784%]
+Average_Member with 95.32% attendance raided 829,907 times [82.991%]
+-----
+95.515% attendance with 996,185 raids & 3,815 failures [99.618%] or 1 in every ~261 raids missed.
+Special_Member with 100.00% attendance raided 907,844 times [90.784%]
+Average_Member with 95.32% attendance raided 829,900 times [82.990%]
+-----
+95.517% attendance with 996,221 raids & 3,779 failures [99.622%] or 1 in every ~263 raids missed.
+Special_Member with 100.00% attendance raided 907,819 times [90.782%]
+Average_Member with 95.32% attendance raided 829,904 times [82.990%]
+-----
+95.516% attendance with 996,332 raids & 3,668 failures [99.633%] or 1 in every ~271 raids missed.
+Special_Member with 100.00% attendance raided 907,838 times [90.784%]
+Average_Member with 95.32% attendance raided 829,907 times [82.991%]
+-----
+95.516% attendance with 996,325 raids & 3,675 failures [99.633%] or 1 in every ~271 raids missed.
+Special_Member with 100.00% attendance raided 907,834 times [90.783%]
+Average_Member with 95.32% attendance raided 829,909 times [82.991%]
+-----
+
