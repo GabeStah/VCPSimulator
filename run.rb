@@ -1,5 +1,7 @@
 require './sim'
 
+$output = File.open('results.txt', 'w')
+
 def calculate_starting_points(args = {})
   seed = args[:seed] || 1
   players = args[:players] || 10
@@ -9,6 +11,11 @@ def calculate_starting_points(args = {})
   else # odd
     (increment * (players - 1) / 2 - (seed - 1) * increment).round(4)
   end
+end
+
+def print(line)
+  $output.puts line
+  puts line
 end
 
 def run_simulation(args = {})
@@ -26,11 +33,11 @@ def run_simulation(args = {})
       vcp: calculate_starting_points(seed: count+1, players: roster_size, increment: 0.25)
     }
   end
-  settings = "Assumed Average Attendance: #{attendance}%, Raid Size: #{raid_size}, Roster Size: #{roster_size}"
-  output.puts '\\' * settings.length
-  output.puts"#{simulation_count} simulations @ #{iterations.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse} iterations each."
-  output.puts settings
-  output.puts '/' * settings.length
+  settings = "Assumed Average Attendance: #{attendance}%, Raid Size: #{raid_size}, Roster Size: #{roster_size}, Special Member Attendance: #{'%.2f' % player_0_attendance}%"
+  print '\\' * settings.length
+  print"#{simulation_count} simulations @ #{iterations.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse} iterations each."
+  print settings
+  print '/' * settings.length
   simulation_count.times do
     absentees = 0
     attendees = 0
@@ -52,28 +59,28 @@ def run_simulation(args = {})
       attendees += sim.attendees + sim.sittees
       roster = sim.roster
     }
-    output.puts "#{'%.3f' % (attendees.to_f / (attendees + absentees) * 100)}% attendance with #{successes.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse} raids & #{failures.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse} failures [#{'%.3f' % (successes / iterations.to_f * 100)}%] or 1 in every ~#{successes / failures} raids missed."
-    output.puts "Special_Member with #{'%.2f' % player_0_attendance}% attendance raided #{player_0_attended.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse} times [#{'%.3f' % ((player_0_attended / iterations.to_f) * 100)}%]"
-    output.puts "Average_Member with #{'%.2f' % attendance}% attendance raided #{(others_attended / (roster_size - 1)).to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse} times [#{'%.3f' % ((others_attended / (roster_size - 1) / iterations.to_f) * 100)}%]"
-    output.puts "-----"
+    print "#{'%.3f' % (attendees.to_f / (attendees + absentees) * 100)}% attendance with #{successes.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse} full & #{failures.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse} partial raids [#{'%.3f' % (successes / iterations.to_f * 100)}%] or 1 in every ~#{successes / failures} raids missed."
+    print "Special_Member with #{'%.2f' % player_0_attendance}% attendance raided #{player_0_attended.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse} times [#{'%.3f' % ((player_0_attended / iterations.to_f) * 100)}%]"
+    print "Average_Member with #{'%.2f' % attendance}% attendance raided #{(others_attended / (roster_size - 1)).to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse} times [#{'%.3f' % ((others_attended / (roster_size - 1) / iterations.to_f) * 100)}%]"
+    print '-' * settings.length
   end
-  output.puts ""
+  print ""
 end
 
 roster_sizes = [
   22,
   23,
-  24
+  24,
+  25
 ]
 player_0_attendances = [
   90,
   95.32,
   100
 ]
-output = File.open('simulation.txt', 'w')
 roster_sizes.each do |roster_size|
   player_0_attendances.each do |player_0_attendance|
-    run_simulation(output: output, iterations: 1000000, player_0_attendance: player_0_attendance, roster_size: roster_size, simulation_count: 5)
+    run_simulation(output: $output, iterations: 100000, player_0_attendance: player_0_attendance, roster_size: roster_size, simulation_count: 5)
   end
 end
-output.close
+$output.close
