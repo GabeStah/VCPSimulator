@@ -1,0 +1,75 @@
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 100,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 25, Special Member Attendance: 90.00%
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+95.095% attendance with 99,902 full & 98 partial raids [99.902%] or 1 in every ~1019 raids missed.
+Special_Member with 90.00% attendance raided 71,840 times [71.840%]
+Average_Member with 95.32% attendance raided 80,335 times [80.335%]
+-----------------------------------------------------------------------------------------------------
+95.103% attendance with 99,894 full & 106 partial raids [99.894%] or 1 in every ~942 raids missed.
+Special_Member with 90.00% attendance raided 71,941 times [71.941%]
+Average_Member with 95.32% attendance raided 80,330 times [80.330%]
+-----------------------------------------------------------------------------------------------------
+95.113% attendance with 99,885 full & 115 partial raids [99.885%] or 1 in every ~868 raids missed.
+Special_Member with 90.00% attendance raided 71,858 times [71.858%]
+Average_Member with 95.32% attendance raided 80,333 times [80.333%]
+-----------------------------------------------------------------------------------------------------
+95.110% attendance with 99,888 full & 112 partial raids [99.888%] or 1 in every ~891 raids missed.
+Special_Member with 90.00% attendance raided 71,804 times [71.804%]
+Average_Member with 95.32% attendance raided 80,336 times [80.336%]
+-----------------------------------------------------------------------------------------------------
+95.073% attendance with 99,882 full & 118 partial raids [99.882%] or 1 in every ~846 raids missed.
+Special_Member with 90.00% attendance raided 71,776 times [71.776%]
+Average_Member with 95.32% attendance raided 80,336 times [80.336%]
+-----------------------------------------------------------------------------------------------------
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 100,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 25, Special Member Attendance: 95.32%
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+95.334% attendance with 99,909 full & 91 partial raids [99.909%] or 1 in every ~1097 raids missed.
+Special_Member with 95.32% attendance raided 80,051 times [80.051%]
+Average_Member with 95.32% attendance raided 79,993 times [79.993%]
+-----------------------------------------------------------------------------------------------------
+95.328% attendance with 99,914 full & 86 partial raids [99.914%] or 1 in every ~1161 raids missed.
+Special_Member with 95.32% attendance raided 79,784 times [79.784%]
+Average_Member with 95.32% attendance raided 80,005 times [80.005%]
+-----------------------------------------------------------------------------------------------------
+95.337% attendance with 99,909 full & 91 partial raids [99.909%] or 1 in every ~1097 raids missed.
+Special_Member with 95.32% attendance raided 80,200 times [80.200%]
+Average_Member with 95.32% attendance raided 79,987 times [79.987%]
+-----------------------------------------------------------------------------------------------------
+95.340% attendance with 99,924 full & 76 partial raids [99.924%] or 1 in every ~1314 raids missed.
+Special_Member with 95.32% attendance raided 79,791 times [79.791%]
+Average_Member with 95.32% attendance raided 80,005 times [80.005%]
+-----------------------------------------------------------------------------------------------------
+95.317% attendance with 99,914 full & 86 partial raids [99.914%] or 1 in every ~1161 raids missed.
+Special_Member with 95.32% attendance raided 79,945 times [79.945%]
+Average_Member with 95.32% attendance raided 79,998 times [79.998%]
+-----------------------------------------------------------------------------------------------------
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+5 simulations @ 100,000 iterations each.
+Assumed Average Attendance: 95.32%, Raid Size: 20, Roster Size: 25, Special Member Attendance: 100.00%
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+95.493% attendance with 99,929 full & 71 partial raids [99.929%] or 1 in every ~1407 raids missed.
+Special_Member with 100.00% attendance raided 87,208 times [87.208%]
+Average_Member with 95.32% attendance raided 79,696 times [79.696%]
+------------------------------------------------------------------------------------------------------
+95.501% attendance with 99,931 full & 69 partial raids [99.931%] or 1 in every ~1448 raids missed.
+Special_Member with 100.00% attendance raided 87,194 times [87.194%]
+Average_Member with 95.32% attendance raided 79,697 times [79.697%]
+------------------------------------------------------------------------------------------------------
+95.528% attendance with 99,941 full & 59 partial raids [99.941%] or 1 in every ~1693 raids missed.
+Special_Member with 100.00% attendance raided 87,152 times [87.152%]
+Average_Member with 95.32% attendance raided 79,699 times [79.699%]
+------------------------------------------------------------------------------------------------------
+95.513% attendance with 99,934 full & 66 partial raids [99.934%] or 1 in every ~1514 raids missed.
+Special_Member with 100.00% attendance raided 87,175 times [87.175%]
+Average_Member with 95.32% attendance raided 79,698 times [79.698%]
+------------------------------------------------------------------------------------------------------
+95.488% attendance with 99,933 full & 67 partial raids [99.933%] or 1 in every ~1491 raids missed.
+Special_Member with 100.00% attendance raided 87,215 times [87.215%]
+Average_Member with 95.32% attendance raided 79,696 times [79.696%]
+------------------------------------------------------------------------------------------------------
+
